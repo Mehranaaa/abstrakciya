@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Abstrakciya\Abstrakciya\bin\Debug\netcoreapp3.1\Abstrakciya.exe
+C:\Users\User\Desktop\Abstrakciya\Abstrakciya\bin\Debug\netcoreapp3.1\Abstrakciya.deps.json
+C:\Users\User\Desktop\Abstrakciya\Abstrakciya\bin\Debug\netcoreapp3.1\Abstrakciya.runtimeconfig.json
+C:\Users\User\Desktop\Abstrakciya\Abstrakciya\bin\Debug\netcoreapp3.1\Abstrakciya.runtimeconfig.dev.json
+C:\Users\User\Desktop\Abstrakciya\Abstrakciya\bin\Debug\netcoreapp3.1\Abstrakciya.dll
+C:\Users\User\Desktop\Abstrakciya\Abstrakciya\bin\Debug\netcoreapp3.1\Abstrakciya.pdb
+C:\Users\User\Desktop\Abstrakciya\Abstrakciya\obj\Debug\netcoreapp3.1\Abstrakciya.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Abstrakciya\Abstrakciya\obj\Debug\netcoreapp3.1\Abstrakciya.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Abstrakciya\Abstrakciya\obj\Debug\netcoreapp3.1\Abstrakciya.AssemblyInfo.cs
+C:\Users\User\Desktop\Abstrakciya\Abstrakciya\obj\Debug\netcoreapp3.1\Abstrakciya.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Abstrakciya\Abstrakciya\obj\Debug\netcoreapp3.1\Abstrakciya.dll
+C:\Users\User\Desktop\Abstrakciya\Abstrakciya\obj\Debug\netcoreapp3.1\Abstrakciya.pdb
+C:\Users\User\Desktop\Abstrakciya\Abstrakciya\obj\Debug\netcoreapp3.1\Abstrakciya.genruntimeconfig.cache
